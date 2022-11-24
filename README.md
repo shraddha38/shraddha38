@@ -1,13 +1,22 @@
 
 
 ```js 
-console.log(" Learning is my second nature"):
+console.log("Learning is my second nature"):
 ```
 
 #### I like to build software in-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-###### React
-###### HTML/CSS
-###### JavaScript 
-###### GraphQl
-###### Node.js
+
+---
+
+<p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shraddha38&show_icons=true&theme=synthwave&show_icons=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha38&theme=synthwave" />
+</p>
+
+---
