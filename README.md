@@ -1,15 +1,18 @@
-
+ #### Sraddha Sharma
 
 ```js 
 console.log("Learning is my second nature"):
 ```
+---
 
 #### I like to build software in-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+&nbsp; &nbsp; &nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) &nbsp; &nbsp; &nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black) &nbsp; &nbsp; &nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=black) &nbsp; &nbsp; &nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp; &nbsp; &nbsp;
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) &nbsp; &nbsp; &nbsp;
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white) &nbsp; &nbsp; &nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) &nbsp; &nbsp; &nbsp;
 
 
 ---
