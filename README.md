@@ -1,7 +1,7 @@
  #### Sraddha Sharma
 
 ```js 
-console.log("Learning is my second nature"):
+console.log("Learning is my second nature");
 ```
 ---
 
