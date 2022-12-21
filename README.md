@@ -1,4 +1,4 @@
- #### Sraddha Sharma
+ #### About Me 
 
 ```js 
 console.log("Learning is my second nature");
@@ -23,3 +23,7 @@ console.log("Learning is my second nature");
 </p>
 
 ---
+
+<p>
+ Know More About Me - https://www.shraddhashukla.com/
+</p>
