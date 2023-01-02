@@ -28,5 +28,5 @@ console.log("Learning is my second nature");
  Know More About Me - https://www.shraddhashukla.com/
 </p>
 <p>
- Mail At- shraddhasharmapro@gmail.com
+ Send Mail At- shraddhasharmapro@gmail.com
 </p>
