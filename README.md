@@ -18,7 +18,6 @@ console.log("Learning is my second nature");
 ---
 
 <p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shraddha38&show_icons=true&theme=synthwave&show_icons=true" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha38&theme=synthwave" />
 </p>
 
