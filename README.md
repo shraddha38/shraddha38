@@ -1,6 +1,6 @@
  ####  Something About Me 
 
-```js 
+```ts 
 console.log("Learning is my second nature");
 ```
 ---
